@@ -1,0 +1,9 @@
+{
+    "name": "mrax714/phpcrawl",
+    "description": "Web spider written in php.",
+    "require": {
+        "php": ">=7.4",
+        "another-vendor/simple_dom_dom": "1.*"
+    }
+}
+

@@ -1,0 +1,197 @@
+{
+    "packages": [
+        {
+            "name": "mrax714/axphphtmldom",
+            "version": "dev-main",
+            "version_normalized": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/mrax714/axphphtmldom.git",
+                "reference": "70fdbce85f464b809e996137e57ee7c40425b62c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/mrax714/axphphtmldom/zipball/70fdbce85f464b809e996137e57ee7c40425b62c",
+                "reference": "70fdbce85f464b809e996137e57ee7c40425b62c",
+                "shasum": ""
+            },
+            "time": "2021-06-30T23:45:57+00:00",
+            "default-branch": true,
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "mrax714\\axphphtmldom\\": "libs/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "0BSD"
+            ],
+            "authors": [
+                {
+                    "name": "axphphtmldom axphphtmldom",
+                    "email": "axphphtmldom@cuab.sdde"
+                }
+            ],
+            "description": "axphphtmldom",
+            "support": {
+                "issues": "https://github.com/mrax714/axphphtmldom/issues",
+                "source": "https://github.com/mrax714/axphphtmldom/tree/main"
+            },
+            "install-path": "../mrax714/axphphtmldom"
+        },
+        {
+            "name": "mrax714/myrandom-uagent",
+            "version": "dev-master",
+            "version_normalized": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/mrax714/myrandom-uagent.git",
+                "reference": "d0cb29139108731f294e6c0326cf3e74a6be449b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/mrax714/myrandom-uagent/zipball/d0cb29139108731f294e6c0326cf3e74a6be449b",
+                "reference": "d0cb29139108731f294e6c0326cf3e74a6be449b",
+                "shasum": ""
+            },
+            "time": "2021-07-01T00:03:21+00:00",
+            "default-branch": true,
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "mrax714\\myrandom-uagent\\": "libs/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "description": "A library for generating random User Agents",
+            "keywords": [
+                "scraping",
+                "user-agent"
+            ],
+            "support": {
+                "source": "https://github.com/mrax714/myrandom-uagent/tree/master"
+            },
+            "install-path": "../mrax714/myrandom-uagent"
+        },
+        {
+            "name": "mrax714/phpwebspider",
+            "version": "dev-master",
+            "version_normalized": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/mrax714/phpwebspider.git",
+                "reference": "eec7690e89b5811ae0bf9c3fd2562d60de3d5d78"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/mrax714/phpwebspider/zipball/eec7690e89b5811ae0bf9c3fd2562d60de3d5d78",
+                "reference": "eec7690e89b5811ae0bf9c3fd2562d60de3d5d78",
+                "shasum": ""
+            },
+            "time": "2021-06-30T23:43:46+00:00",
+            "default-branch": true,
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "mrax714\\PHPWebSpider\\": "libs/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "0BSD"
+            ],
+            "authors": [
+                {
+                    "name": "Ufwe Hunfeld",
+                    "email": "phpcfrawl@cuab.de"
+                }
+            ],
+            "description": "PHPWebSpider",
+            "support": {
+                "source": "https://github.com/mrax714/phpwebspider/tree/master"
+            },
+            "install-path": "../mrax714/phpwebspider"
+        },
+        {
+            "name": "php-curl-class/php-curl-class",
+            "version": "dev-master",
+            "version_normalized": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/php-curl-class/php-curl-class.git",
+                "reference": "8b73ad5b3556585282ad58a22689d54aef614a9d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/php-curl-class/php-curl-class/zipball/8b73ad5b3556585282ad58a22689d54aef614a9d",
+                "reference": "8b73ad5b3556585282ad58a22689d54aef614a9d",
+                "shasum": ""
+            },
+            "require": {
+                "ext-curl": "*",
+                "php": ">=7.0"
+            },
+            "require-dev": {
+                "ext-gd": "*",
+                "phpunit/phpunit": "*",
+                "squizlabs/php_codesniffer": "*"
+            },
+            "suggest": {
+                "ext-mbstring": "*"
+            },
+            "time": "2021-06-23T14:50:09+00:00",
+            "default-branch": true,
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Curl\\": "src/Curl/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "Unlicense"
+            ],
+            "authors": [
+                {
+                    "name": "Zach Borboa"
+                }
+            ],
+            "description": "PHP Curl Class makes it easy to send HTTP requests and integrate with web APIs.",
+            "homepage": "https://github.com/php-curl-class/php-curl-class",
+            "keywords": [
+                "API-Client",
+                "api",
+                "class",
+                "client",
+                "curl",
+                "framework",
+                "http",
+                "http-client",
+                "http-proxy",
+                "json",
+                "php",
+                "php-curl",
+                "php-curl-library",
+                "proxy",
+                "requests",
+                "restful",
+                "web-scraper",
+                "web-scraping ",
+                "web-service",
+                "xml"
+            ],
+            "support": {
+                "issues": "https://github.com/php-curl-class/php-curl-class/issues",
+                "source": "https://github.com/php-curl-class/php-curl-class/tree/9.2.0"
+            },
+            "install-path": "../php-curl-class/php-curl-class"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}

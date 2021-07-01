@@ -1,0 +1,8 @@
+{
+    "require": {
+        "mrax714/axphphtmldom": "@dev",
+        "mrax714/phpwebspider": "@dev",
+        "mrax714/myrandom-uagent": "@dev",
+        "php-curl-class/php-curl-class": "@dev"
+    }
+}
