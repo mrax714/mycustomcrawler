@@ -1,0 +1,8 @@
+{
+    "name": "mrax714/myrandom-uagent",
+    "description": "A library for generating random User Agents",
+    "keywords": ["user-agent", "scraping"],
+    "autoload": {
+        "psr-4": {"mrax714\\myrandom-uagent\\": "libs/"}
+    }
+}

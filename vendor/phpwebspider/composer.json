@@ -1,0 +1,15 @@
+{
+	"name": "mrax714/phpwebspider",
+	"description": "PHPWebSpider",
+    "type": "library",
+	"license": "0BSD",
+    "authors": [
+        {
+			"name": "Ufwe Hunfeld",
+			"email": "phpcfrawl@cuab.de"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"mrax714\\PHPWebSpider\\": "libs/"}
+    }
+}
