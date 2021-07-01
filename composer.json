@@ -1,4 +1,26 @@
 {
+    "name": "mrax714/mycustomcrawler",
+    "description": "mycustomcrawler",
+    "type": "mrax714-module",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Mr Ax",
+            "homepage": "https://www.mrax714.org/",
+            "role": "Maintainer"
+        },
+        {
+            "name": "Many Others",
+            "email": "admin@mrax.com",
+            "homepage": "https://www.mrax714.org/",
+            "role": "Co-maintainer"
+        }
+    ],
+    "homepage": "https://mrax714.org/project/mycustomcrawler",
+    "support": {
+        "issues": "https://mrax714.org/project/issues/mycustomcrawler",
+        "source": "https://git.mrax714code.org/project/mycustomcrawler"
+    },
     "require": {
         "mrax714/axphphtmldom": "@dev",
         "mrax714/phpwebspider": "@dev",
